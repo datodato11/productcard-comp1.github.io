@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;400;500;700&family=Roboto&display=swap');
+body{
+    background-color:#FFC3C3;
+}
+.div{
+    background-color: #ffffff;
+    width: 300px;
+    height: 630px;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 8px;
+    box-shadow:0px 0px 5px;
+}
+.img1{
+    width: 300px;
+    height: 300px; 
+}
+.dolari{
+    padding: 30px;
+    font-family: Roboto;
+    margin-top: -18%;
+    
+}
+.zebronic{
+    padding: 30px;
+    font-family: Roboto;
+    font-weight: 400;
+    margin-top: -23%;
+}
+.portable{
+    padding: 30px;
+    font-family: Roboto;
+    font-weight: 50;
+    color: rgb(66, 66, 66);
+    margin-top: -25%;
+    font-size: 13.9px;
+}
+.colorch{
+    font-size: 12px;
+    font-family: Roboto;
+    font-weight: lighter;
+    color: rgb(104, 104, 104);
+    padding: 30px;
+    margin-top: -19%;
+
+}
+.button1{
+    background-color: #EE4444;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 16px;
+    margin-left: 9%;
+    position: absolute;
+    margin-top:  -3%;
+    border: none;
+    cursor: pointer;
+}
+.button1:hover{
+    width: 45px;
+    height: 45px;
+    transition: 0.3s;
+}
+.button2{
+    border-width: 4px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: #3C81F6;
+    padding: 16px;
+    position: absolute;
+    margin-top:  -3%;
+    margin-left: 5.5%;
+    border: none;
+    cursor: pointer;
+}
+.button2:hover{
+    width: 45px;
+    height: 45px;
+    transition: 0.3s;
+}
+.button3{
+    border-width: 4px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: #000000;
+    position: absolute;
+    margin-top:  -3%;
+    margin-left: 1.9%;
+    border: none;
+    cursor: pointer;
+}
+.button3:hover{
+    width: 45px;
+    height: 45px;
+    transition: 0.3s;
+}
+.addcart {
+  margin-left: 10%;
+  width: 230px;
+  height: 38px;
+  background-color: #FBBF23;
+  border: none;
+  font-size: 15px;
+  color: #333333;
+  font-weight: 400;
+  border-radius: 5px;
+  font-family: Roboto;
+  margin-top: -10%;
+  cursor: pointer;
+
+}
+.addcart:hover{
+    background-color: #e24800;
+    transition: 0.5s;
+}
+.buy{
+    margin-left: 10%;
+  width: 230px;
+  height: 38px;
+  background-color: #14ade0;
+  border: none;
+  font-size: 15px;
+  border-radius: 5px;
+  border-color: #000000;
+  margin-top: 5%;
+  cursor: pointer;
+  font-weight: 400;
+  font-family: Roboto;
+}
+.buy:hover{
+    background-color: #0069e2;
+    transition: 0.5s;
+}
+.read{
+    margin:7.5%;
+    font-size: 10px;
+    font-family: Roboto;
+    color:#3C81F6;
+    cursor: pointer;
+}
